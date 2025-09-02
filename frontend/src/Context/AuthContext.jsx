@@ -1,7 +1,7 @@
 import React, { createContext, useState } from 'react'
 export const authDataContext = createContext()
 function AuthContext({children}) {
-    const serverUrl = "http://localhost:8000"
+    const serverUrl = "https://stayverse-g6w4.onrender.com"
 
     let [loading,setLoading]=useState(false)
 
