@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80">
+  <style>
+    .logo-text { font-family: Arial, sans-serif; font-weight: bold; }
+    .stay { fill: #FF5A5F; }
+    .verse { fill: #484848; }
+  </style>
+  <text x="10" y="50" class="logo-text stay" font-size="40">Stay</text>
+  <text x="100" y="50" class="logo-text verse" font-size="40">Verse</text>
+  <!-- House icon -->
+  <path d="M260,20 L240,35 L240,60 L255,60 L255,45 L265,45 L265,60 L280,60 L280,35 Z" fill="#FF5A5F"/>
+  <path d="M235,38 L260,18 L285,38 L280,42 L260,25 L240,42 L235,38 Z" fill="#FF5A5F"/>
+</svg>
